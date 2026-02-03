@@ -1,0 +1,39 @@
+body{
+  background-color: pink;
+}
+.blog-post-card{
+  background-color: white;
+  border-radius: 10px;
+  width: 818px;
+  text-align: center; 
+}
+.post-img{
+  width: 820px;
+  border-bottom: 5px solid brown;
+}
+.post-content{
+  padding: 8px 12px
+}
+
+.post-title  {
+ color: Brown;
+}
+.post-excerpt{
+  color: brown
+}
+
+.read-more{
+  color: brown;
+  background-color: burlywood;
+  padding: 8px 12px;
+  text-decoration: none;
+  border-radius: 20px;
+  padding: auto;
+  display: inline-block;
+  margin: 25px
+}
+
+.read-more:hover{
+  color: pink;
+  background-color: peru;
+}
